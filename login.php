@@ -150,7 +150,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <body>
     <div class="card">
         <form method="POST" action="">
-            <h1>Login</h1>
+            <h1>Welcome to My git add .Daily Journal</h1>
             <div class="mb-3">
                 <input type="text" class="form-control" name="user" placeholder="Username" required>
             </div>
